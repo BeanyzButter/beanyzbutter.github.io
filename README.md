@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Beany'z Butter
 
-You can use the [editor on GitHub](https://github.com/BeanyzButter/beanyzbutter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This fine establishment provides homemade canned products including but not limited to: Apple butter, applesauce, fruit-flavored jams, peanut butter, salsa, pickles, and more.
 
 ### Markdown
 
